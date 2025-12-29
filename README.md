@@ -14,6 +14,6 @@ I don’t ship flashy projects — I ship things that work.
 
 ## Fun facts
 
-- **i have 4 cats**
+- **I have 4 cats**
 - **Frieren is my favorite anime**
 - **I like football**
