@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**uniiversee/uniiversee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m uniiversee.
 
-Here are some ideas to get you started:
+I work with reverse engineering, low-level programming, and binary analysis.
+If it runs, I can take it apart and understand how it works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on memory analysis, game internals, anti-tamper mechanisms, and security research.
+Most of my work is private.
+
+I mainly code in C/C++, with a strong interest in x86 internals, debugging, and system behavior.
+
+I don’t ship flashy projects — I ship things that work.
+
+## Fun facts
+
+- **i have 4 cats**
+- **Frieren is my favorite anime**
+- **I like football**
